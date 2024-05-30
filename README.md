@@ -24,4 +24,4 @@
   - Proper folder structuring.
   - Proper layout scaffolding of HTML elements.
   - Proper use of Tailwind classes to design certain elements of the UI.
- # probi-fe
+ 
