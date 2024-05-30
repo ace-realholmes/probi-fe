@@ -1,7 +1,9 @@
 <?php
 
+use App\Livewire\Home;
+use App\Livewire\Pages\About;
+use App\Livewire\Pages\Work\PortfolioFlex;
 use Illuminate\Support\Facades\Route;
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::get('/', Home::class)->name('home');
+Route::get('/about', About::class)->name('about');
