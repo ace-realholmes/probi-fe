@@ -1,3 +1,3 @@
 <div>
-    <h1>Hello from About Page!</h1>
+    <livewire:sections.about />
 </div>
