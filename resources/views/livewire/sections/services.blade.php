@@ -5,7 +5,7 @@
         <p class="mb-5 leading-loose tracking-wider">Capturing life's beauty through my lens. Specializing in wedding, portrait, and commercial photography. Contact me to bring your vision to life..</p>
         </div>
         <!-- collection of services -->
-        <div class="grid gap-12 md:grid-cols-4">
+        <div class="grid gap-12 md:grid-cols-2 xl:grid-cols-4">
             <!-- Wedding service -->
             <div>
                 <img class="w-[100px] mb-4 h-[80px]" src="https://erramix-themes.com/grapholio-demo/images/services/1.png" alt="">

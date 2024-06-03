@@ -1,3 +1,4 @@
 <div>
-    {{-- The Master doesn't talk, he acts. --}}
+
+    <livewire:sections.services />
 </div>
