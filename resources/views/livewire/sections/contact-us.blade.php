@@ -5,6 +5,7 @@
             <h1 class="mb-5 text-4xl font-bold tracking-wide md:text-6xl">CONTACT US FOR ANY QUESTIONS</h1>
             <p class="text-base text-slate-900">As a matter of fact the unification of the coherent software provides a strict control over The Accomplishment of Intended Estimation.</p>
         </div>
+
         <!-- section logos -->
         <div class="flex flex-col mb-8 xl:flex-row xl:items-center xl:justify-between md:items-start md:m-8 md:w-[92%] xl:w-auto xl:m-0">
             <div>
@@ -48,7 +49,7 @@
 
             <!-- Input Area for the user -->
             <div class="self-start xl:w-[55%] w-[100%] md:w-[92%] flex flex-col items-start mt-8">
-                <input type="text" placeholder="E-mail" class="p-4 text-xl border-b-2 border-black w-[92%] h-[40%] mb-4">
+                <input type="text" placeholder="E-mail" class="p-4 text-xl border-b-2 border-black w-[92%] h-[40%] mb-4 outline-none">
                 <textarea name="" id="" cols="30" rows="10" class="p-4 border-b-2 border-black w-[92%] xl:h-[200px] outline-none" placeholder="message"></textarea>
                 <button class="p-2 px-4 mt-4 text-white bg-black border-2 border-black rounded-md">Send</button>
             </div>

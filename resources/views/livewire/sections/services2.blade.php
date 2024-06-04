@@ -17,7 +17,7 @@
                         <p class="md:w-[92%] w-[68%] mb-3 text-base leading-loose text-gray-600">Capturing life's beauty through my lens. Specializing in wedding,
                             portrait</p>
                         <div class="mb-4">
-                            <a class="mb-5 text-2xl font-bold text-gray-600" href="/">Learn More</a>
+                            <a class="mb-5 text-2xl font-bold text-gray-600 hover:text-black" href="/">Learn More</a>
                             <ion-icon name="arrow-forward-outline"></ion-icon>
                     </div>
                     </div>
@@ -33,7 +33,7 @@
                         <p class="md:w-[92%] w-[68%] mb-3 text-base leading-loose text-gray-600">Capturing life's beauty through my lens. Specializing in wedding,
                             portrait</p>
                         <div class="mb-4">
-                            <a class="mb-5 text-2xl font-bold text-gray-600" href="/">Learn More</a>
+                            <a class="mb-5 text-2xl font-bold text-gray-600 hover:text-black" href="/">Learn More</a>
                             <ion-icon name="arrow-forward-outline"></ion-icon>
                     </div>
                     </div>
@@ -49,7 +49,7 @@
                         <p class="w-[68%] mb-3 text-base leading-loose text-gray-600">Capturing life's beauty through my lens. Specializing in wedding,
                             portrait</p>
                         <div class="mb-4">
-                            <a class="mb-5 text-2xl font-bold text-gray-600" href="/">Learn More</a>
+                            <a class="mb-5 text-2xl font-bold text-gray-600 hover:text-black" href="/">Learn More</a>
                             <ion-icon name="arrow-forward-outline"></ion-icon>
                     </div>
                     </div>
@@ -65,7 +65,7 @@
                         <p class="w-[68%] mb-3 text-base leading-loose text-gray-600">Capturing life's beauty through my lens. Specializing in wedding,
                             portrait</p>
                         <div class="mb-4">
-                            <a class="mb-5 text-2xl font-bold text-gray-600" href="/">Learn More</a>
+                            <a class="mb-5 text-2xl font-bold text-gray-600 hover:text-black" href="/">Learn More</a>
                             <ion-icon name="arrow-forward-outline"></ion-icon>
                     </div>
                     </div>

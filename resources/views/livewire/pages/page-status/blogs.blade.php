@@ -1,5 +1,5 @@
 <div>
-    <div class="bg-[#2D2E2F] h-[230px] mt-20 mb-20">
+    <div class="bg-[#2D2E2F] h-[230px] mt-24 mb-20">
         <div class="text-white w-[92%] mx-auto">
             <div class="py-6">
                 <a href="">HOME</a> /

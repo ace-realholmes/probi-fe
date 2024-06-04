@@ -15,6 +15,8 @@
             </div>
         </div>
 
+        <!-- link directory 01 -->
+
         <div class="mt-20 mb-12 xl:mt-14">
             <h1 class="text-lg font-bold ">site map</h1>
             <ul class="my-8 text-base">
@@ -36,6 +38,8 @@
                 </li>
             </ul>
         </div>
+
+        <!-- link directory 02 -->
         <div class="mb-12 xl:mt-14">
             <h1 class="text-lg font-bold ">about us</h1>
             <ul class="my-8 text-base">
@@ -57,6 +61,8 @@
                 </li>
             </ul>
         </div>
+
+        <!-- link-directory 03 -->
         <div class="mb-12 xl:mt-14">
             <h1 class="text-lg font-bold ">quick links</h1>
             <ul class="my-8 text-base">
@@ -79,6 +85,7 @@
             </ul>
         </div>
     </footer>
+    <!-- footer credentials -->
     <div class="flex justify-between w-[100%] p-8 mx-auto bg-[#2D2E2F] text-white border-t-2 border-slate-400">
         <div class="flex flex-col w-[100%] xl:flex-row xl:justify-between">
             <p class="mb-4 xl:mb-0">© 2024 Created by: fuminji@github.com</p>

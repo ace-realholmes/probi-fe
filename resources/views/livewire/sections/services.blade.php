@@ -1,5 +1,5 @@
 <div>
-    <div class="w-[92%] mx-auto pt-5 mb-8">
+    <section class="w-[92%] mx-auto pt-5 mb-8">
         <div class="md:w-[46%]">
             <h1 class="mb-5 text-4xl font-bold tracking-wide md:text-6xl">WHAT WE OFFER</h1>
         <p class="mb-5 leading-loose tracking-wider">Capturing life's beauty through my lens. Specializing in wedding, portrait, and commercial photography. Contact me to bring your vision to life..</p>
@@ -12,7 +12,7 @@
                 <h1 class="mb-3 text-3xl font-bold">Wedding</h1>
                 <p class="mb-3 text-base leading-loose text-gray-600">Capturing life's beauty through my lens. Specializing in wedding, portrait</p>
                 <div class="mb-4">
-                    <a class="mb-5 text-2xl font-bold text-gray-600" href="/">Learn More</a>
+                    <a class="mb-5 text-2xl font-bold text-gray-600 hover:text-black" href="/">Learn More</a>
                     <ion-icon name="arrow-forward-outline"></ion-icon>
                 </div>
 
@@ -23,7 +23,7 @@
                 <h1 class="mb-3 text-3xl font-bold">Travel</h1>
                 <p class="mb-3 text-base leading-loose text-gray-600">Capturing life's beauty through my lens. Specializing in wedding, portrait</p>
                 <div class="mb-4">
-                    <a class="mb-5 text-2xl font-bold text-gray-600" href="/">Learn More</a>
+                    <a class="mb-5 text-2xl font-bold text-gray-600 hover:text-black" href="/">Learn More</a>
                     <ion-icon name="arrow-forward-outline"></ion-icon>
                 </div>
 
@@ -34,7 +34,7 @@
                 <h1 class="mb-3 text-3xl font-bold">Personel</h1>
                 <p class="mb-3 text-base leading-loose text-gray-600">Capturing life's beauty through my lens. Specializing in wedding, portrait</p>
                 <div class="mb-4">
-                    <a class="mb-5 text-2xl font-bold text-gray-600" href="/">Learn More</a>
+                    <a class="mb-5 text-2xl font-bold text-gray-600 hover:text-black" href="/">Learn More</a>
                     <ion-icon name="arrow-forward-outline"></ion-icon>
                 </div>
 
@@ -45,7 +45,7 @@
                 <h1 class="mb-3 text-3xl font-bold">Life Style</h1>
                 <p class="mb-3 text-base leading-loose text-gray-600">Capturing life's beauty through my lens. Specializing in wedding, portrait</p>
                 <div class="mb-4">
-                    <a class="mb-5 text-2xl font-bold text-gray-600" href="/">Learn More</a>
+                    <a class="mb-5 text-2xl font-bold text-gray-600 hover:text-black" href="/">Learn More</a>
                     <ion-icon name="arrow-forward-outline"></ion-icon>
                 </div>
 
@@ -53,5 +53,5 @@
 
 
         </div>
-    </div>
+    </section>
 </div>
