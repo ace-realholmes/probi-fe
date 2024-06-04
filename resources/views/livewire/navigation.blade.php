@@ -17,21 +17,21 @@
                     </li>
                     <li class="cursor-pointer hover:text-black group dropdown">
                         <a href="" class="group-hover:text-black">work <ion-icon name="caret-down-outline"></ion-icon></a>
-                        <div class="flex-col hidden p-2 mt-2 border-2 border-black rounded-md xl:bg-white xl:p-4 xl:border-black md:p-0 md:border-white md:mt-1 md:absolute m-w-32 z-1 group-hover:flex work">
+                        <div class="flex-col hidden p-2 mt-2 border-2 border-black rounded-md xl:bg-white xl:p-4 xl:border-black md:mt-1 md:hover:absolute xl:absolute m-w-32 z-1 group-hover:flex work">
                             <a href="/work/portfolio-flex" wire:navigate class="text-[#666666] hover:text-black" >Portfolio Flex</a>
                             <a href="/work/portfolio-grid" wire:navigate class="text-[#666666] hover:text-black">Portfolio Grid</a>
                         </div>
                     </li>
                     <li class=" hover:text-black group">
                         <a href="" class="group-hover:text-black">services <ion-icon name="caret-down-outline"></ion-icon></a>
-                        <div class="flex-col hidden p-2 mt-2 border-2 border-black rounded-md xl:p-4 xl:border-black xl:bg-white md:p-0 md:border-white md:mt-1 md:absolute m-w-32 z-1 group-hover:flex">
+                        <div class="flex-col hidden p-2 mt-2 border-2 border-black rounded-md xl:bg-white xl:p-4 xl:border-black md:mt-1 md:hover:absolute xl:absolute m-w-32 z-1 group-hover:flex work">
                             <a href="/services/services-01" wire:navigate class="text-[#666666] hover:text-black">Services 01</a>
                             <a href="/services/services-02" wire:navigate class="text-[#666666] hover:text-black">Services 02</a>
                         </div>
                     </li>
                     <li class=" hover:text-black group">
                         <a href="" class="group-hover:text-black">pages <ion-icon name="caret-down-outline"></ion-icon></a>
-                        <div class="flex-col hidden p-2 mt-2 border-2 border-black rounded-md md:p-0 xl:border-black xl:bg-white xl:p-4 md:border-white md:mt-1 md:absolute m-w-32 z-1 group-hover:flex">
+                        <div class="flex-col hidden p-2 mt-2 border-2 border-black rounded-md xl:bg-white xl:p-4 xl:border-black md:mt-1 md:hover:absolute xl:absolute m-w-32 z-1 group-hover:flex work">
                             <a href="#" class="text-[#666666] hover:text-black">404 Not Found</a>
                             <a href="/pages/blogs" wire:navigate class="text-[#666666] hover:text-black">Blogs</a>
                         </div>

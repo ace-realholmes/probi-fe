@@ -4,8 +4,8 @@
         <div class="md:w-[92%] xl:w-[46%]">
             <h1 class="mb-5 text-5xl font-bold">PHOTOGRAPHY THAT TELLS YOUR STORY</h1>
             <p class="my-6 text-base leading-loose tracking-wide ">Capturing life's beauty through my lens. Specializing in wedding, portrait, and commercial photography. Contact me to bring your vision to life.</p>
-            <div class="flex gap-5">
-                <button class="p-2 px-6 text-white duration-500 bg-gray-900 rounded-lg hover:bg-white hover:text-black">Contact Us</button>
+            <div class="flex gap-2">
+                <button class="p-2 px-6 text-white duration-500 bg-gray-900 rounded-lg hover:bg-white hover:text-black"><a href="/contact-us" wire:navigate>Contact Us</a></button>
                 <button class="p-2 px-6 duration-500 bg-white border-2 border-black rounded-lg hover:bg-black hover:text-white">Learn More</button>
             </div>
             <div class="md:flex md:flex-col xl:flex-row">

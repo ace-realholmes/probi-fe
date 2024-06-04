@@ -1,5 +1,5 @@
 <div>
-    <section class="w-[92%] mx-auto pt-5 mb-20">
+    <section class="w-[92%] mx-auto pt-5 mb-20 mt-20">
         <!-- Title of the section -->
         <div class="md:w-[46%]">
             <h1 class="mb-5 text-4xl font-bold tracking-wide md:text-6xl">OUR PORTFOLIO</h1>
@@ -55,7 +55,7 @@
             </a>
 
             <!-- Image 05 -->
-            <a href="https://images.unsplash.com/photo-1525351326368-efbb5cb6814d?q=80&w=2960&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" data-fancybox="gallery" class="relative block group">
+            <a href="https://images.unsplash.com/photo-1584404268984-89c43e841646?q=80&w=2287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" data-fancybox="gallery" class="relative block group">
                 <img class="w-full object-cover h-[300px] rounded-md transition duration-300 filter group-hover:blur-[8px] group-hover:grayscale" src="https://images.unsplash.com/photo-1584404268984-89c43e841646?q=80&w=2287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="assorted-colored-cake">
                 <div class="absolute flex flex-col items-center justify-center transition-opacity duration-300 transform -translate-x-1/2 -translate-y-1/2 opacity-0 top-1/2 left-1/2 group-hover:opacity-100">
                     <h1 class="text-2xl font-bold text-white">NATURE</h1>
