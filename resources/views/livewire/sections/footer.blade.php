@@ -22,19 +22,19 @@
             <ul class="my-8 text-base">
                 <li class="flex items-center mb-4">
                     <ion-icon name="chevron-forward-outline" class="mr-2"></ion-icon>
-                    <a href="">Home</a>
+                    <a href="/" wire:navigate>Home</a>
                 </li>
                 <li class="flex items-center mb-4">
                     <ion-icon name="chevron-forward-outline" class="mr-2"></ion-icon>
-                    <a href="">About</a>
+                    <a href="/about" wire:navigate>About</a>
                 </li>
                 <li class="flex items-center mb-4">
                     <ion-icon name="chevron-forward-outline" class="mr-2"></ion-icon>
-                    <a href="">Work</a>
+                    <a href="/work/portfolio-grid" wire:navigate>Work</a>
                 </li>
                 <li class="flex items-center mb-4">
                     <ion-icon name="chevron-forward-outline" class="mr-2"></ion-icon>
-                    <a href="">Contact</a>
+                    <a href="/contact-us" wire:navigate>Contact</a>
                 </li>
             </ul>
         </div>
@@ -45,19 +45,19 @@
             <ul class="my-8 text-base">
                 <li class="flex items-center mb-4">
                     <ion-icon name="chevron-forward-outline" class="mr-2"></ion-icon>
-                    <a href="">Our Story</a>
+                    <a href="/about" wire:navigate>Our Story</a>
                 </li>
                 <li class="flex items-center mb-4">
                     <ion-icon name="chevron-forward-outline" class="mr-2"></ion-icon>
-                    <a href="">Team Members</a>
+                    <a href="/about" wire:navigate>Team Members</a>
                 </li>
                 <li class="flex items-center mb-4">
                     <ion-icon name="chevron-forward-outline" class="mr-2"></ion-icon>
-                    <a href="">Careers</a>
+                    <a href="/about" wire:navigate>Careers</a>
                 </li>
                 <li class="flex items-center mb-4">
                     <ion-icon name="chevron-forward-outline" class="mr-2"></ion-icon>
-                    <a href="">Contact Us</a>
+                    <a href="/about" wire:navigate>Contact Us</a>
                 </li>
             </ul>
         </div>

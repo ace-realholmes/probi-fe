@@ -2,8 +2,8 @@
     <section class="w-[92%] mx-auto pt-5 mb-8 flex flex-col gap-4">
         <!-- Section Title -->
         <div class="md:w-[92%] xl:w-[46%] md:m-8 xl:m-0">
-            <h1 class="mb-5 text-4xl font-bold tracking-wide md:text-6xl">CONTACT US FOR ANY QUESTIONS</h1>
-            <p class="text-base text-slate-900">As a matter of fact the unification of the coherent software provides a strict control over The Accomplishment of Intended Estimation.</p>
+            <h1 class="my-6 text-4xl font-bold tracking-wide md:text-6xl">CONTACT US FOR ANY QUESTIONS</h1>
+            <p class="my-6 text-base text-[#656565]">As a matter of fact the unification of the coherent software provides a strict control over The Accomplishment of Intended Estimation.</p>
         </div>
 
         <!-- section logos -->
@@ -15,7 +15,7 @@
                     </div>
                     <div>
                         <h1 class="text-2xl font-bold tracking-wide">email</h1>
-                        <p class="text-gray-500 trackin-wide">example@example.com</p>
+                        <p class="text-[#656565] trackin-wide">example@example.com</p>
                     </div>
                 </div>
                 <div class="flex items-center gap-8 mb-4">
@@ -24,7 +24,7 @@
                     </div>
                     <div>
                         <h1 class="text-2xl font-bold tracking-wide">phone</h1>
-                        <p class="text-gray-500 trackin-wide">+123 456 6789</p>
+                        <p class="text-[#656565] trackin-wide">+123 456 6789</p>
                     </div>
                 </div>
                 <div class="flex items-center gap-8 mb-4">
@@ -33,7 +33,7 @@
                     </div>
                     <div>
                         <h1 class="text-2xl font-bold tracking-wide">address</h1>
-                        <p class="text-gray-500 trackin-wide">A108 Adam Street, New York, NY 535022</p>
+                        <p class="text-[#656565] trackin-wide">A108 Adam Street, New York, NY 535022</p>
                     </div>
                 </div>
                 <div class="flex items-center gap-8 mb-4">
@@ -42,7 +42,7 @@
                     </div>
                     <div>
                         <h1 class="text-2xl font-bold tracking-wide">instagram</h1>
-                        <p class="text-gray-500 trackin-wide">grapholio.2024</p>
+                        <p class="text-[#656565] trackin-wide">grapholio.2024</p>
                     </div>
                 </div>
             </div>

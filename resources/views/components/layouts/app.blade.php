@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="description" content="Photographer Portfolio,width=device-width, initial-scale=1.0">
-        @vite('resources/css/app.css')
+        @vite(['resources/css/app.css', 'resources/js/app.js'])
         <title>GRAPHOLIO | Photographer Portfolio</title>
         <!-- Swipre js CDN -->
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
@@ -16,21 +16,25 @@
         <!-- Fancybox Library CDN -->
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
         <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+        <style>
+        .swiper-pagination-bullet {
+        background-color: gray;
+        display: inline-block;
+        }
+        </style>
     </head>
-    <body>
+    <body class="select-none">
         <livewire:navigation />
         {{ $slot }}
     </body>
-
     <script>
         let navLinks = document.querySelector('.nav-links')
         function onToggleMenu(e){
-            e.name = e.name === 'menu' ? 'close' : 'menu'
-            navLinks.classList.toggle('top-[10%]')
-            navLinks.classList.toggle('hidden')
-            navLinks.classList.toggle('md:hidden')
-        }
-
+        e.name = e.name === 'menu' ? 'close' : 'menu'
+        navLinks.classList.toggle('top-[10%]')
+        navLinks.classList.toggle('hidden')
+        navLinks.classList.toggle('md:hidden')
+        };
         const swiper = new Swiper('.swiper', {
 
         // If we need pagination
@@ -45,16 +49,27 @@
         nextEl: '.swiper-button-next',
         prevEl: '.swiper-button-prev',
         },
-autoplay: {
-delay: 5000,
-},
+        autoplay: {
+        delay: 5000,
+        },
 
-480: {
-slidesPerView: 3,
-spaceBetween: 30
-},
+        breakpoints: {
+
+        376: {
+        slidesPerView: 1,
+        spaceBetween: 30
+        },
+        640: {
+        slidesPerView: 2,
+        spaceBetween: 40
+        },
+
+        1300: {
+        slidesPerView: 3,
+        spaceBetween: 60
+        },
+        }
 
         });
-
     </script>
 </html>

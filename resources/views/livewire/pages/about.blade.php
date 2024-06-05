@@ -1,8 +1,9 @@
 <div>
+    <!-- Section header and navigation -->
     <div class="bg-[#2D2E2F] h-[230px] mt-24">
         <div class="text-white w-[92%] mx-auto">
             <div class="py-6">
-                <a href="">HOME</a> /
+                <a href="">HOME</a>
                 <a href="">ABOUT</a>
             </div>
             <div>

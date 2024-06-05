@@ -2,18 +2,18 @@
     <section class="w-[92%] mx-auto pt-5 mb-20">
         <!-- Title of the section -->
         <div class="md:w-[46%]">
-            <h1 class="mb-5 text-4xl font-bold tracking-wide md:text-6xl">OUR PORTFOLIO</h1>
-            <p class="mb-5 leading-loose tracking-wider">Capturing life's beauty through my lens. Specializing in wedding, portrait, and commercial photography. Contact me to bring your vision to life..</p>
+            <h1 class="my-6 text-4xl font-bold tracking-wide md:text-6xl">OUR PORTFOLIO</h1>
+            <p class="my-6 leading-loose text-[#656565] tracking-wider">Capturing life's beauty through my lens. Specializing in wedding, portrait, and commercial photography. Contact me to bring your vision to life..</p>
         </div>
 
         <!-- buttons for selection filter -->
-        <div class="mb-4">
+        <div class="my-6">
             <ul class="flex gap-4">
-                <li class="text-xl font-bold text-gray-600 cursor-pointer hover:text-black">All</li>
-                <li class="text-xl font-bold text-gray-600 cursor-pointer hover:text-black">Portrait</li>
-                <li class="text-xl font-bold text-gray-600 cursor-pointer hover:text-black">Dark</li>
-                <li class="text-xl font-bold text-gray-600 cursor-pointer hover:text-black">Nature</li>
-                <li class="text-xl font-bold text-gray-600 cursor-pointer hover:text-black">Wedding</li>
+                <li class="text-xl font-bold tracking-wide text-gray-600 cursor-pointer hover:text-black">All</li>
+                <li class="text-xl font-bold tracking-wide text-gray-600 cursor-pointer hover:text-black">Portrait</li>
+                <li class="text-xl font-bold tracking-wide text-gray-600 cursor-pointer hover:text-black">Dark</li>
+                <li class="text-xl font-bold tracking-wide text-gray-600 cursor-pointer hover:text-black">Nature</li>
+                <li class="text-xl font-bold tracking-wide text-gray-600 cursor-pointer hover:text-black">Wedding</li>
             </ul>
         </div>
         <!-- Gallery Images of portraits w/ fancybox library -->

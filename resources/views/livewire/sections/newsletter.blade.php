@@ -3,10 +3,10 @@
         <!-- Newsletter Title -->
         <div class="flex flex-col items-center">
             <div class="md:w-[800px] text-wrap">
-                <h1 class="mb-4 text-3xl font-bold text-center md:text-5xl xl:text-6xl ">
+                <h1 class="my-6 text-3xl font-bold text-center md:text-5xl xl:text-6xl ">
                     JOIN OUR NEWSLETTER
                 </h1>
-                <p class="text-[#666666] mb-6 leading-loose text-center text-wrap ">Capturing life's beauty through my lens. Specializing in wedding, portrait, and commercial photography. Contact me to bring your vision to life..</p>
+                <p class="text-[#656565] my-6 leading-loose text-center text-wrap ">Capturing life's beauty through my lens. Specializing in wedding, portrait, and commercial photography. Contact me to bring your vision to life..</p>
             </div>
             <!-- Newsletter Promopt -->
             <div class="flex">
