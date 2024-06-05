@@ -24,7 +24,7 @@
                     <!-- Navigation for work pages -->
                     <li x-data="{ open: false }" class="cursor-pointer hover:text-black">
                         <button href="" @click="open = ! open" class="group-hover:text-black">work <ion-icon name="caret-down-outline"></ion-icon></button>
-                        <div x-transition.duration.300ms x-trainsition x-show="open" @click.outside="open = false" class="flex flex-col p-2 mt-2 border border-black rounded-md xl:absolute xl:bg-white xl:p-4 md:mt-1 z-1">
+                        <div  x-show="open" @click.outside="open = false" class="flex flex-col p-2 mt-2 border border-black rounded-md xl:absolute xl:bg-white xl:p-4 md:mt-1 z-1">
                             <a href="/work/portfolio-flex"  class="text-[#666666] hover:text-black p-2" >Portfolio Flex</a>
                             <a href="/work/portfolio-grid" wire:navigate class="text-[#666666] hover:text-black p-2">Portfolio Grid</a>
                         </div>
@@ -33,7 +33,7 @@
                     <!-- Navigation for services pages -->
                     <li x-data="{ open: false }" class=" hover:text-black group">
                         <button href="" @click="open = ! open" class="group-hover:text-black">services <ion-icon name="caret-down-outline"></ion-icon></button>
-                        <div x-transition.duration.300ms x-trainsition x-show="open" @click.outside="open = false" class="flex flex-col p-2 mt-2 border border-black rounded-md xl:absolute xl:bg-white xl:p-4 md:mt-1 z-1">
+                        <div   x-show="open" @click.outside="open = false" class="flex flex-col p-2 mt-2 border border-black rounded-md xl:absolute xl:bg-white xl:p-4 md:mt-1 z-1">
                             <a href="/services/services-01" wire:navigate class="text-[#666666] hover:text-black p-2">Services 01</a>
                             <a href="/services/services-02" wire:navigate class="text-[#666666] hover:text-black p-2">Services 02</a>
                         </div>
@@ -42,7 +42,7 @@
                     <!-- Navigation for pages -->
                     <li x-data="{ open: false }" class=" hover:text-black group">
                         <button href="" @click="open = ! open" class="group-hover:text-black">pages <ion-icon name="caret-down-outline"></ion-icon></button>
-                        <div x-transition.duration.300ms x-trainsition x-show="open" @click.outside="open = false" class="flex flex-col p-2 mt-2 border border-black rounded-md xl:absolute xl:bg-white xl:p-4 md:mt-1 z-1">
+                        <div  x-show="open" @click.outside="open = false" class="flex flex-col p-2 mt-2 border border-black rounded-md xl:absolute xl:bg-white xl:p-4 md:mt-1 z-1">
                             <a href="#" class="text-[#666666] hover:text-black p-2">404 Not Found</a>
                             <a href="/pages/blogs" wire:navigate class="text-[#666666] hover:text-black p-2">Blogs</a>
                         </div>
