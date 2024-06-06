@@ -5,7 +5,7 @@
         <meta name="description" content="Photographer Portfolio,width=device-width, initial-scale=1.0">
         @vite(['resources/css/app.css', 'resources/js/app.js'])
         <title>GRAPHOLIO | Photographer Portfolio</title>
-        <!-- Swipre js CDN -->
+        <!-- Swiper js CDN -->
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css" />
         <!-- Ionic Icons usage -->

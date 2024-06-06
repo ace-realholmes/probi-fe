@@ -1,5 +1,5 @@
 <div>
-    <div class="w-[92%] mx-auto pt-5 md:flex md:flex-col xl:flex-row xl:items-center">
+    <div class="w-[92%] mx-auto pt-5 md:flex md:flex-col xl:flex-row xl:items-center mb-20">
         <div class="my-6 md:w-[92%] xl:w-[46%]  xl:mr-20 flex justify-center">
             <!-- img for about 01 -->
             <img class="object-cover w-full mx-auto rounded-lg" src="https://images.unsplash.com/photo-1572833191864-27747064f775?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Photographer">
