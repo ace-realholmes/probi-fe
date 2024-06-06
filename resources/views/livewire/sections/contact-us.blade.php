@@ -1,13 +1,13 @@
 <div>
-    <section class="w-[92%] mx-auto pt-5 mb-8 flex flex-col gap-4">
+    <section class="w-[92%] mx-auto pt-5 mb-8 flex flex-col">
         <!-- Section Title -->
-        <div class="xl:w-[92%]  md:m-8 xl:m-0">
+        <div class="xl:w-[92%] xl:m-0">
             <h1 class="my-6 text-4xl font-bold tracking-wide md:text-5xl">CONTACT US FOR ANY QUESTIONS</h1>
             <p class="my-6 md:w-[66%] w-[46%] text-base text-[#656565]">As a matter of fact the unification of the coherent software provides a strict control over The Accomplishment of Intended Estimation.</p>
         </div>
 
         <!-- section logos -->
-        <div class="flex flex-col mb-8 xl:flex-row xl:items-center xl:justify-between md:items-start md:m-8 md:w-[92%] xl:w-auto xl:m-0">
+        <div class="flex flex-col mb-8 xl:flex-row xl:items-center xl:justify-between md:items-start md:w-full xl:w-auto xl:m-0">
             <div>
                 <div class="flex items-center gap-8 mb-4">
                     <div>
@@ -48,7 +48,7 @@
             </div>
 
             <!-- Input Area for the user -->
-            <div class="self-start xl:w-[55%] w-[92%] md:w-[92%] flex flex-col items-start mt-8">
+            <div class="self-start xl:w-[55%] w-full flex flex-col items-start mt-8">
                 <input type="text" placeholder="E-mail" class=" p-4 text-xl border-b-2 border-black w-full h-[40%] mb-4 outline-none">
                 <textarea name="" id="" cols="30" rows="10" class="p-4 border-b-2 border-black w-full xl:h-[200px] outline-none" placeholder="message"></textarea>
                 <button class="p-2 px-6 mt-4 text-white duration-300 bg-black border-2 border-black rounded-md hover:bg-white hover:text-black">Send</button>
