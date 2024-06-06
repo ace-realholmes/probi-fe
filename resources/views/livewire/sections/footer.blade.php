@@ -1,5 +1,5 @@
 <div>
-    <footer class=" bg-[#2D2E2F] text-white p-8 md:grid md:grid-cols-2 xl:grid-cols-4">
+    <footer class="bg-[#2D2E2F] text-white p-8 md:grid md:grid-cols-2 xl:grid-cols-4 mx-auto">
         <div class="pt-5 mx-auto mr-10">
             <h1 class="mb-4 text-3xl font-bold tracking-wider">GRAPHOLIO</h1>
             <p class="leading-loose text-[18px] text-[#FBFBFB] md:48%">photographer with passion for capturing the beauty and emotion of life.</p>
