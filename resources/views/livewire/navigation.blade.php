@@ -7,7 +7,7 @@
                 </a>
             </button>
             <!-- Links on the middle -->
-            <div class="nav-links xl:items-center bg-black-500 xl:mt-0 md:mt-6 md:ml-6 min-h-[60vh] top-[9%] xl:w-auto w-full xl:block flex md:flex md:min-h-[0vh] items-center px-5 hidden md:hidden">
+            <div class="nav-links xl:items-center bg-black-500 xl:mt-0 md:mt-6 md:ml-6 min-h-[60vh] top-[9%] xl:w-auto w-full xl:block flex  md:min-h-[0vh] items-center px-5 hidden md:hidden">
                 <!-- Middle navigation lists -->
                 <ul class="flex flex-col gap-8 xl:flex-row xl:items-center text-[#666666] font-bold tracking-wide">
 
