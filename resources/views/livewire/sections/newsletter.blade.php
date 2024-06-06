@@ -10,7 +10,7 @@
             </div>
             <!-- Newsletter Promopt -->
             <div class="flex">
-                <input class="relative p-1 px-12 text-xl text-left  border-black border-2 rounded-l-lg pl-[14px] outline-none" type="text" name="" placeholder="your email">
+                <input class="relative p-1 px-52 text-xl text-left  border-black border-2 rounded-l-lg pl-[14px] outline-none" type="text" name="" placeholder="your email">
                 <button class="p-2 text-white bg-black border-2 border-black rounded-r-lg md:px-8">subscribe</button>
             </div>
         </div>

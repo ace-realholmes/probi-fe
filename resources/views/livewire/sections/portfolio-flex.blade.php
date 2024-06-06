@@ -17,7 +17,7 @@
             </ul>
         </div>
         <!-- Gallery Images of portraits w/ fancybox library -->
-            <div class="relative grid gap-6 md:grid-cols-2 xl:grid-cols-3">
+            <div class="relative grid gap-6 transition-all md:grid-cols-2 xl:grid-cols-3">
                 <!-- image 01 -->
                 <a href="https://images.unsplash.com/photo-1586038693164-cb7ee3fb8e2c?q=80&w=2960&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" data-fancybox="gallery" class="relative block group">
                     <img class="w-full object-cover h-auto rounded-md transition duration-300 filter group-hover:blur-[8px] group-hover:grayscale" src="https://images.unsplash.com/photo-1586038693164-cb7ee3fb8e2c?q=80&w=2960&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="yellow-jacket-portrait">

@@ -22,10 +22,15 @@
             background-color: gray;
             display: inline-block;
         }
+
+        .swiper-scrollbar {
+            background-color: white;
+
+        }
     </style>
 </head>
 
-<body class="select-none">
+<body class="select-none ">
     <livewire:navigation />
     {{ $slot }}
 </body>
@@ -60,11 +65,11 @@
 
                 376: {
                     slidesPerView: 1,
-                    spaceBetween: 30
+                    spaceBetween: 40
                 },
                 640: {
                     slidesPerView: 2,
-                    spaceBetween: 40
+                    spaceBetween: 50
                 },
 
                 1300: {
