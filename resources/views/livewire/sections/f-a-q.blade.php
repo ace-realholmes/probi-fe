@@ -1,6 +1,6 @@
 <div>
     <section class="w-[92%] mx-auto pt-5 mb-8 flex flex-col ">
-        <div class="md:w-[92%] w-[56%]  xl:m-0 md:mb-8 xl:mb-4 ">
+        <div class="md:w-[92%] w-[66%] mb-4  xl:m-0 md:mb-8 xl:mb-4 ">
             <h1 class="text-4xl font-bold tracking-wide md:text-5xl text-balance">FREQUENTLY ASKED QUESTIONS</h1>
         </div>
         <!-- FAQ left side -->

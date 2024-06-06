@@ -1,9 +1,9 @@
 <div>
     <section class="w-[92%] mx-auto pt-5 mb-8 flex flex-col gap-4">
         <!-- Section Title -->
-        <div class="md:w-[92%] xl:w-[46%] md:m-8 xl:m-0">
-            <h1 class="my-6 text-4xl font-bold tracking-wide md:text-6xl">CONTACT US FOR ANY QUESTIONS</h1>
-            <p class="my-6 text-base text-[#656565]">As a matter of fact the unification of the coherent software provides a strict control over The Accomplishment of Intended Estimation.</p>
+        <div class="xl:w-[92%]  md:m-8 xl:m-0">
+            <h1 class="my-6 text-4xl font-bold tracking-wide md:text-5xl">CONTACT US FOR ANY QUESTIONS</h1>
+            <p class="my-6 md:w-[66%] w-[46%] text-base text-[#656565]">As a matter of fact the unification of the coherent software provides a strict control over The Accomplishment of Intended Estimation.</p>
         </div>
 
         <!-- section logos -->
